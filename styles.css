@@ -1,18 +1,18 @@
 .elephant-content {
     border: 1px solid #e9e9e9;
-    box-shadow: 5px 5px 3px 0px #e9e9e9;
+    box-shadow: 5px 5px 3px 0 #e9e9e9;
     width: 300px;
-    padding: 0px 10px 10px 10px;
+    padding: 0 10px 10px 10px;
 }
 
 .elephant-image {
-    padding: 0px 0px 10px 0px;
+    padding: 0 0 10px 0;
 }
 
 .elephant-information {
     border: 1px solid #e9e9e9;
     width: 278px;
-    padding: 0px 10px;
+    padding: 0 10px;
 }
 
 .interesting-fact {
