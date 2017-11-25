@@ -1,1 +1,30 @@
-/* add your CSS here */
+.elephant-content {
+    border: 1px solid #e9e9e9;
+    box-shadow: 5px 5px 3px 0px #e9e9e9;
+    width: 300px;
+    padding: 0px 10px 10px 10px;
+}
+
+.elephant-image {
+    padding: 0px 0px 10px 0px;
+}
+
+.elephant-information {
+    border: 1px solid #e9e9e9;
+    width: 278px;
+    padding: 0px 10px;
+}
+
+.interesting-fact {
+    font-style: italic;
+}
+
+.elephant-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.list-label {
+    font-weight: bold;
+}
